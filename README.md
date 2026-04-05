@@ -19,8 +19,6 @@ Colección de ejemplos prácticos para aprender Terraform, organizados por conce
 | `kubernetes/` | Despliegue de recursos en Kubernetes |
 | `localstack/` | Simulación de servicios AWS en local con LocalStack |
 | `terraform_cloud/` | Integración con Terraform Cloud como backend remoto |
-| `azure_containers/` | Integración con contenedores Docker en Azure |
-| `gcp_containers/` | Integración con contenedores Docker en Google Cloud |
 
 ## Uso general
 
